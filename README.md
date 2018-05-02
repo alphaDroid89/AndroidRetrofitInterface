@@ -1,2 +1,2 @@
 # AndroidRetrofitInterface
-Created a sampled application to integrate Regrofit
+Sample application application to integrate Retrofit with common result interfaces
